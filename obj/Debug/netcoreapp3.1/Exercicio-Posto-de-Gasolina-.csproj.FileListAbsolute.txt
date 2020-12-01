@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\bin\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.exe
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\bin\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.deps.json
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\bin\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.runtimeconfig.json
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\bin\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\bin\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.dll
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\bin\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.pdb
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\obj\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\obj\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\obj\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\obj\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\obj\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.dll
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\obj\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.pdb
+C:\Users\ACER\Desktop\Exercicio-Posto-de-Gasolina-\obj\Debug\netcoreapp3.1\Exercicio-Posto-de-Gasolina-.genruntimeconfig.cache
